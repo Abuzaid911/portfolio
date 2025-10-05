@@ -37,8 +37,8 @@ const config: Config = {
       },
       keyframes: {
         glow: {
-          '0%, 100%': { opacity: 0.45 },
-          '50%': { opacity: 0.8 },
+          '0%, 100%': { opacity: '0.45' },
+          '50%': { opacity: '0.8' },
         },
       },
       screens: {
