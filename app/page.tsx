@@ -187,7 +187,7 @@ export default function Page() {
                 <div className="relative aspect-square w-full max-w-xs">
                   <div className="absolute inset-0 rounded bg-accent/20 blur-3xl" aria-hidden />
                   <Image
-                    src="/images/portrait.png"
+                    src="/images/Portrait.png"
                     alt="Portrait illustration of Ahmed Ali"
                     sizes="(min-width: 1024px) 320px, 220px"
                     fill
